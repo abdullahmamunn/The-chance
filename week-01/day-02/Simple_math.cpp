@@ -1,4 +1,4 @@
-///A bus can carry maximum K person at a time. How many busses are needed to carry N person?
+///A bus can carry maximum K person at a time. How many buses are needed to carry N person?
 /// time 5-6 mins
 
 #include<bits/stdc++.h>
